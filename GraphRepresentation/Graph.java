@@ -6,6 +6,7 @@ import java.util.Queue;
 
 
 /**
+ * @author Keith O'Neal and Andrew Dolge
  * CISC 380 Algorithms Assignment 5
  * 
  * Represents an undirected graph of nodes and edges in adjacency list format.
